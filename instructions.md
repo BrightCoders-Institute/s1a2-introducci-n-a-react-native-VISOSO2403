@@ -69,20 +69,20 @@ Sigue estas instrucciones paso a paso para desarrollar tus habilidades en React 
 # Indicadores de cumplimiento
 
 1. **Instalación y configuración del ambiente de trabajo para programación con React Native:**
-   - [ ] He completado la instalación de las herramientas necesarias para desarrollar aplicaciones con React Native.
-   - [ ] He configurado correctamente mi entorno de desarrollo según las mejores prácticas y requisitos técnicos.
+   - [*] He completado la instalación de las herramientas necesarias para desarrollar aplicaciones con React Native.
+   - [*] He configurado correctamente mi entorno de desarrollo según las mejores prácticas y requisitos técnicos.
 
 2. **Comprensión de la semántica y sintaxis de React Native:**
-   - [ ] Puedo explicar los conceptos fundamentales de React Native.
-   - [ ] Comprendo la sintaxis y estructura básica de un proyecto de React Native.
-   - [ ] Tengo conocimiento sobre componentes, props y state en React Native.
-   - [ ] Sé cómo trabajar con estilos y estilizar componentes en React Native.
-   - [ ] Entiendo la navegación y la gestión de rutas en una aplicación React Native.
+   - [*] Puedo explicar los conceptos fundamentales de React Native.
+   - [*] Comprendo la sintaxis y estructura básica de un proyecto de React Native.
+   - [*] Tengo conocimiento sobre componentes, props y state en React Native.
+   - [*] Sé cómo trabajar con estilos y estilizar componentes en React Native.
+   - [*] Entiendo la navegación y la gestión de rutas en una aplicación React Native.
 
 3. **Realización de ejercicios de práctica para reforzar los conocimientos adquiridos:**
-   - [ ] He realizado ejercicios específicos de React Native para poner en práctica mis conocimientos.
-   - [ ] He utilizado ejemplos y desafíos para familiarizarme con la escritura de código en React Native.
-   - [ ] He consultado la documentación o buscado apoyo cuando he encontrado dificultades.
+   - [*] He realizado ejercicios específicos de React Native para poner en práctica mis conocimientos.
+   - [*] He utilizado ejemplos y desafíos para familiarizarme con la escritura de código en React Native.
+   - [*] He consultado la documentación o buscado apoyo cuando he encontrado dificultades.
 
 4. **Utilización del canal de #support en Slack:**
    - [ ] He utilizado el canal de #support en Slack para plantear dudas o solicitar ayuda.
